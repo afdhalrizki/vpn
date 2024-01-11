@@ -17,10 +17,10 @@
 10. Use SQLlite3 as DB that already migrated with the models (put it in the project as POC)
 
 # Live Server
-> www.harikerja.com
+> www.harikerja.com/vpn/admin/
 
 # List of API's
-> www.harikerja.com/api/schema/swagger-ui/
+> www.harikerja.com/vpn/api/schema/swagger-ui/
 
 # List of User
 1. admin
